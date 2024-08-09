@@ -1,7 +1,7 @@
 {
     "models": [
     
-            "AkimeraNowa"
+            "model/AkimeraNowa"
       ],
     "messages": [
         "Nep! Nep!"
