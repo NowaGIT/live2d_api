@@ -1,0 +1,35 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "pttggl",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "tiedT",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "braidsT",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "sideLtggl",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "sideRtggl",
+			"Value": -1,
+			"Blend": "Add"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "AkimeraNowa.moc3",
+		"Textures": [
+			"AkimeraNowa.2048/texture_00.png",
+			"AkimeraNowa.2048/texture_01.png",
+			"AkimeraNowa.2048/texture_02.png",
+			"AkimeraNowa.2048/texture_03.png",
+			"AkimeraNowa.2048/texture_04.png"
+		],
+		"Physics": "AkimeraNowa.physics3.json",
+		"DisplayInfo": "AkimeraNowa.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

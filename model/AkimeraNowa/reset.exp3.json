@@ -1,0 +1,45 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "mouthSad",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "eyesad",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "angertggl",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "blush_toggle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "fire_toggle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "stars_toggle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "hearts_toggle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "tears_toggle",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

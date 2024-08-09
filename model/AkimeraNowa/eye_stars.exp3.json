@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "stars_toggle",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "hearts_toggle",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

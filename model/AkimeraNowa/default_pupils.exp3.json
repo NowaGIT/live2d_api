@@ -1,0 +1,10 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "pupils",
+			"Value": -0.356,
+			"Blend": "Add"
+		}
+	]
+}
