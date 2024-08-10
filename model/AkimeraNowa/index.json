@@ -1,6 +1,6 @@
 {
- 	"name":"AkimerraNowa.2048"
-	"version":"1.0.0",
+ 	"name":"AkimeraNowa.2048",
+	"version":3,
 	"model":"AkimeraNowa.moc3",
     "textures":[
         "AkimeraNowa.2048/texture_00.png",
@@ -9,17 +9,7 @@
         "AkimeraNowa.2048/texture_03.png",
         "AkimeraNowa.2048/texture_04.png",
     ],
-    "physics":"AkimeraNowa.physics.json",
-    "layout":{
-		"center_x":0.0,
-		"center_y":-0.6,
-		"width":3
-	},
-	"hit_areas_custom":{
-		"head_x":[-0.35, 0.6],
-		"head_y":[0.19, -0.2],
-		"body_x":[-0.3, -0.25],
-		"body_y":[0.3, -0.9]
+    "physics":"AkimeraNowa.physics.json"
 
-	}
+	
 }
